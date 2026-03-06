@@ -1,4 +1,4 @@
-# Day 10 — List Files in Folders
+# List Files in Folders
 
 A Python script that accepts folder paths from the user at runtime and lists all files inside each folder. Demonstrates lists, loops, the `os` module, and exception handling.
 
